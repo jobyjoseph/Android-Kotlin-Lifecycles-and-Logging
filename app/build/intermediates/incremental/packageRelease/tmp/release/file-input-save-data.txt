@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Aug 25 15:53:28 IST 2019
+0.baseType=DIRECTORY
+0.base=/Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1

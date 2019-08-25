@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/joby/.gradle/caches/transforms-2/files-2.1/e412593aef90b70d5436f9b43989726e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

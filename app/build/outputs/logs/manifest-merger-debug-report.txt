@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] /Users/joby/.gradle/caches/transforms-2/files-2.1/706d61a46ce0cf83aded59d1e623d74f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] /Users/joby/.gradle/caches/transforms-2/files-2.1/bff8100284003c54b821e643dc37b350/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/joby/.gradle/caches/transforms-2/files-2.1/9816aa8822e2d3916a9307caec2d198d/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/e412593aef90b70d5436f9b43989726e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/joby/.gradle/caches/transforms-2/files-2.1/9ede2464cf132518a77006fcfd8f47ac/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/1ada8b85963254a4c095060208f43bf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/5c6d13cc0e9dd5f2fadc29a4f59779da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/joby/.gradle/caches/transforms-2/files-2.1/c8af2629937da1848ea75ebfb8ede600/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/99cc949c7354116c37b077ee195209d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/8e70bde3f405058fe4aef3fab3d40c53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/3f7ac6f500c3b5347d917172c2adab67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/c7a70231437850a7cfc1b2ec8e0788d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/698daf61517392a38aef6a8a7ee559be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/abd9411531898b51d999c91cdd502fa7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/d21bb6157710bf51af6f8e70d0ff398d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/6af67f97cbf53527f1461f6f50f7486d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/80fd8c3c54ccca20019382d483c4c322/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/483c767989d791fa6e76925123c8c040/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/47eee4a2de385ed8c9c194419e3b6a96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/95bc3f56e9de613605bdf7e2d5f2c8f4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/b6b1779ed7dbe865c6ea4d01930c1a7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/67822d150852e02da9cab7ed51d8d571/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/60f888853e7917b7a4db4f30673fee23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/ab89bbe60f24e1ce214879b8869d874a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/040df4fdbe32ccf1ad9617d95d5bc8f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/8e8655f560e4d872734627f147d39476/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/9c39c47604a9b69aa844d9fbf1ea469f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/54a99e000711b941d38704dfa8127f01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/a86c64f70f88acab5ef01604ba5a4c42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/835ce128bd376a31ba4445b9425b5fde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/17cde4eaf841d9f16bb5726330310626/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:20:5-35:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/joby/.gradle/caches/transforms-2/files-2.1/9816aa8822e2d3916a9307caec2d198d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/joby/.gradle/caches/transforms-2/files-2.1/9816aa8822e2d3916a9307caec2d198d/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/joby/.gradle/caches/transforms-2/files-2.1/9ede2464cf132518a77006fcfd8f47ac/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/joby/.gradle/caches/transforms-2/files-2.1/9ede2464cf132518a77006fcfd8f47ac/AndroidManifest.xml:7:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/95bc3f56e9de613605bdf7e2d5f2c8f4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/95bc3f56e9de613605bdf7e2d5f2c8f4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/67822d150852e02da9cab7ed51d8d571/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/67822d150852e02da9cab7ed51d8d571/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/95bc3f56e9de613605bdf7e2d5f2c8f4/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:25:9-61
+	android:icon
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:23:9-50
+	android:allowBackup
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:21:9-43
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] /Users/joby/.gradle/caches/transforms-2/files-2.1/706d61a46ce0cf83aded59d1e623d74f/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] /Users/joby/.gradle/caches/transforms-2/files-2.1/706d61a46ce0cf83aded59d1e623d74f/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] /Users/joby/.gradle/caches/transforms-2/files-2.1/bff8100284003c54b821e643dc37b350/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] /Users/joby/.gradle/caches/transforms-2/files-2.1/bff8100284003c54b821e643dc37b350/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/joby/.gradle/caches/transforms-2/files-2.1/9816aa8822e2d3916a9307caec2d198d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/joby/.gradle/caches/transforms-2/files-2.1/9816aa8822e2d3916a9307caec2d198d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/e412593aef90b70d5436f9b43989726e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/e412593aef90b70d5436f9b43989726e/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/joby/.gradle/caches/transforms-2/files-2.1/9ede2464cf132518a77006fcfd8f47ac/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/joby/.gradle/caches/transforms-2/files-2.1/9ede2464cf132518a77006fcfd8f47ac/AndroidManifest.xml:5:5-43
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/1ada8b85963254a4c095060208f43bf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/1ada8b85963254a4c095060208f43bf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/5c6d13cc0e9dd5f2fadc29a4f59779da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/5c6d13cc0e9dd5f2fadc29a4f59779da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/joby/.gradle/caches/transforms-2/files-2.1/c8af2629937da1848ea75ebfb8ede600/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/joby/.gradle/caches/transforms-2/files-2.1/c8af2629937da1848ea75ebfb8ede600/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/99cc949c7354116c37b077ee195209d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/99cc949c7354116c37b077ee195209d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/8e70bde3f405058fe4aef3fab3d40c53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/8e70bde3f405058fe4aef3fab3d40c53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/3f7ac6f500c3b5347d917172c2adab67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/3f7ac6f500c3b5347d917172c2adab67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/c7a70231437850a7cfc1b2ec8e0788d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/c7a70231437850a7cfc1b2ec8e0788d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/698daf61517392a38aef6a8a7ee559be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/698daf61517392a38aef6a8a7ee559be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/abd9411531898b51d999c91cdd502fa7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/abd9411531898b51d999c91cdd502fa7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/d21bb6157710bf51af6f8e70d0ff398d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/d21bb6157710bf51af6f8e70d0ff398d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/6af67f97cbf53527f1461f6f50f7486d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/6af67f97cbf53527f1461f6f50f7486d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/80fd8c3c54ccca20019382d483c4c322/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/80fd8c3c54ccca20019382d483c4c322/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/483c767989d791fa6e76925123c8c040/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/483c767989d791fa6e76925123c8c040/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/47eee4a2de385ed8c9c194419e3b6a96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/47eee4a2de385ed8c9c194419e3b6a96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/95bc3f56e9de613605bdf7e2d5f2c8f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/95bc3f56e9de613605bdf7e2d5f2c8f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/b6b1779ed7dbe865c6ea4d01930c1a7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/b6b1779ed7dbe865c6ea4d01930c1a7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/67822d150852e02da9cab7ed51d8d571/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/67822d150852e02da9cab7ed51d8d571/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/60f888853e7917b7a4db4f30673fee23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/60f888853e7917b7a4db4f30673fee23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/ab89bbe60f24e1ce214879b8869d874a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/ab89bbe60f24e1ce214879b8869d874a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/040df4fdbe32ccf1ad9617d95d5bc8f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/040df4fdbe32ccf1ad9617d95d5bc8f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/8e8655f560e4d872734627f147d39476/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/8e8655f560e4d872734627f147d39476/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/9c39c47604a9b69aa844d9fbf1ea469f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/9c39c47604a9b69aa844d9fbf1ea469f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/54a99e000711b941d38704dfa8127f01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/54a99e000711b941d38704dfa8127f01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/a86c64f70f88acab5ef01604ba5a4c42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/a86c64f70f88acab5ef01604ba5a4c42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/835ce128bd376a31ba4445b9425b5fde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/835ce128bd376a31ba4445b9425b5fde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/17cde4eaf841d9f16bb5726330310626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joby/.gradle/caches/transforms-2/files-2.1/17cde4eaf841d9f16bb5726330310626/AndroidManifest.xml:20:5-44
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/src/main/AndroidManifest.xml

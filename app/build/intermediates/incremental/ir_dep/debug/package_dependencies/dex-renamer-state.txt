@@ -1,0 +1,4 @@
+#Sun Aug 25 16:20:06 IST 2019
+base.0=/Users/joby/Library/Mobile Documents/com~apple~CloudDocs/Timeline/2019-08/Personal/2019-08-17/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
